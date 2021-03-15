@@ -12,7 +12,7 @@
   "numeralTypeFrom":2,
   "numeralTypeTo": 1
 }
-
+* ./bin/phpunit
 
 
 ## other notes and todo's:

@@ -10,7 +10,7 @@ namespace App\Service;
 interface IntToNumSystemStrategyInterface
 {
     /**
-     * @param string $type
+     * @param int $type
      *
      * @return bool
      */
